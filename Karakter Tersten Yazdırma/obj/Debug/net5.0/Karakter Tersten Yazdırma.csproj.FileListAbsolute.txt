@@ -1,0 +1,16 @@
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.exe
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.deps.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.runtimeconfig.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.runtimeconfig.dev.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net5.0\ref\Karakter Tersten Yazdırma.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\bin\Debug\net5.0\Karakter Tersten Yazdırma.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.csproj.AssemblyReference.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\ref\Karakter Tersten Yazdırma.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\آسان\05-Karakter Tersten Yazdırma\Karakter Tersten Yazdırma\obj\Debug\net5.0\Karakter Tersten Yazdırma.genruntimeconfig.cache
